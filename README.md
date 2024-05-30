@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from nepal</h3>
-<img align='right' width='400' height='400' src='https://i.pinimg.com/564x/c1/12/23/c11223798ad4596b8d0826e22a09dee6.jpg'></img>
+<img align='right' width='400' height='400' src='![af3b0d0833834050a26a4c229f97a9bd](https://github.com/thisissagarthapa/thisissagarthapa/assets/139972637/ab7694ee-c5bd-4aff-9455-6dd07b37ee4c)
+'></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissagarthapa&label=Profile%20views&color=0e75b6&style=flat" alt="thisissagarthapa" /> </p>
 
