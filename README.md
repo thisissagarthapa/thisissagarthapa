@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from nepal</h3>
+<img align='right' width='400' height='400' src='![Uploading image.png…]()
+' ></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisissagarthapa&label=Profile%20views&color=0e75b6&style=flat" alt="thisissagarthapa" /> </p>
 
