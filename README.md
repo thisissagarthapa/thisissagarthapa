@@ -2,9 +2,7 @@
 <h3 align="center">A passionate python developer from Nepal</h3>
 <img align='right' width='400' height='400' src='https://i.pinimg.com/564x/a2/e8/b6/a2e8b6f4092ba024fb41cdd9734e01e6.jpg' alt='Sagar Thapa'>
 
-<p align="left"> 
-  <img src="http://YOUR_SERVER_ADDRESS/track-profile-view/" alt="Profile views" /> 
-</p>
+
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
