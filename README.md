@@ -2,6 +2,8 @@
 <h3 align="center">A passionate python developer from Nepal</h3>
 <p>🌱 I’m currently learning Django Rest Framework</p>
 
+<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" style="border: none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+
 📫 How to reach me kingstonboysagar@gmail.com
 
 🌐 My portfolio: http://jaimethegoat.pythonanywhere.com
