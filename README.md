@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+<img align='right' width='400' height='400' src='https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif' alt='Backend Developer Animation'>
 <p>🌱 I’m currently learning Django Rest Framework</p>
-<p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
 
 📫 How to reach me: kingstonboysagar@gmail.com
 
