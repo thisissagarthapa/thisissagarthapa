@@ -2,10 +2,14 @@
 <h3 align="center">A passionate python developer from Nepal</h3>
 <p>🌱 I’m currently learning Django Rest Framework</p>
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  <iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
 
-📫 How to reach me kingstonboysagar@gmail.com
+📫 How to reach me: kingstonboysagar@gmail.com
 
-🌐 My portfolio: http://jaimethegoat.pythonanywhere.com
+🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">http://jaimethegoat.pythonanywhere.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -46,6 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
