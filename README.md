@@ -5,7 +5,7 @@
 
 📫 How to reach me kingstonboysagar@gmail.com
 
-🌐 My portfolio:http://jaimethegoat.pythonanywhere.com
+🌐 My portfolio: http://jaimethegoat.pythonanywhere.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +39,9 @@
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" width="40" height="40"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -46,4 +49,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
- add django rest framework in language and tools
