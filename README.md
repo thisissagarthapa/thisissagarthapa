@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
-<img align='right' width='400' height='400' src='https://media.giphy.com/media/4HrBfVJJveBNS9ytSk/giphy.gif' alt='Anime Developer'>
+<img align='right' width='400' height='400' src='your-animated-gif-url' alt='Anime Developer'>
 🌱 I’m currently learning Django Rest Framework
 
 📫 How to reach me kingstonboysagar@gmail.com
