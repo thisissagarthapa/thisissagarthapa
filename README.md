@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
-<img align='right' width='400' height='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt='Developer Animation'>
+<img align='right' width='400' height='400' src='https://i.pinimg.com/originals/a7/63/1f/a7631f84aee1f6b0281e1b4ef86ec0ce.gif' alt='Anime Developer'>
 🌱 I’m currently learning Django Rest Framework
 
 📫 How to reach me kingstonboysagar@gmail.com
