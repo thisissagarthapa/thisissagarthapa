@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sagar Thapa - Python Developer</title>
-</head>
-<body>
+
 
   <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
   <h3 align="center">A passionate python developer from Nepal</h3>
@@ -63,5 +56,3 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
 
-</body>
-</html>
