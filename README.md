@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
-<h3 align="center">A passionate python developer from Nepal</h3>
+
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
 <div style="position: relative;">
     <img align='right' width='400' height='400' src='https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif' alt='Backend Developer Animation'>
-    <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; text-align: center;">
-        Welcome to Sagar's GitHub profile
-    </p>
 </div>
 </p>🌱 I’m currently learning Django Rest Framework
 
