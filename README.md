@@ -5,7 +5,7 @@
 
 📫 How to reach me kingstonboysagar@gmail.com
 
-🌐 My portfolio: jaimethegoat.pythonanywhere.com
+🌐 My portfolio:http://jaimethegoat.pythonanywhere.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
