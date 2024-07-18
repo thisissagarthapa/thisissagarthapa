@@ -2,7 +2,6 @@
 <h3 align="center">A passionate python developer from Nepal</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
 <img align='right' width='300' height='200' src='https://github.com/thisissagarthapa/thisissagarthapa/assets/139972637/1cf541d5-e406-4ff2-9ae5-26a144f233a8' alt='Backend Developer Animation'>
 
 
@@ -63,4 +62,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
 
