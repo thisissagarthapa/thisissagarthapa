@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
 
-<img align='right' width='300' height='200' src='https://camo.githubusercontent.com/4e07d3d5d437d6f5b0ec2e5b175d1d0bb1a6fbdc/68747470733a2f2f70726f66696c65706963732e67697468756275736572636f6e74656e742e636f6d2f73656c666865616c2f617274732d706572736f6e616c2d70726f66696c652d726561642d6d652d312e676966' alt='Programmer Animation 1'>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
+<img align='right' width='300' height='200' src='https://github.com/thisissagarthapa/thisissagarthapa/assets/139972637/1cf541d5-e406-4ff2-9ae5-26a144f233a8' alt='Backend Developer Animation'>
 
 
 
@@ -62,5 +63,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
-<img align='right' width='300' height='200' src='https://github.com/thisissagarthapa/thisissagarthapa/assets/139972637/1cf541d5-e406-4ff2-9ae5-26a144f233a8' alt='Backend Developer Animation'>
+
