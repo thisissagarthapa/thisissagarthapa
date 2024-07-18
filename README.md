@@ -2,14 +2,14 @@
 <h3 align="center">A passionate python developer from Nepal</h3>
 
 <a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh" target="_blank">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="480" height="480" alt="Coding GIF">
+  <img align='right' src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="480" height="350" alt="Coding GIF">
 </a>
 
 <p>🌱 I’m currently learning Django Rest Framework</p>
 
 📫 How to reach me: kingstonboysagar@gmail.com
 
-🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">http://jaimethegoat.pythonanywhere.com</a>
+🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
 
 <h3 align="left">Hosted Projects:</h3>
 <ul>
