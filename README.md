@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
 
-<img align='right' width='300' height='200' src='https://github.com/thisissagarthapa/thisissagarthapa/assets/139972637/1cf541d5-e406-4ff2-9ae5-26a144f233a' alt='Backend Developer Animation'>
+<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 
 
 
