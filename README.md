@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
 
-<a href="#" target="_blank">
-  <img align='right' src="https://banner2.cleanpng.com/20230821/cyc/transparent-web-design-1711086727519.webp" width="300" height="300" alt="Coding GIF">
-</a>
+
 
 <p>🌱 I’m currently learning mysql</p>
 
