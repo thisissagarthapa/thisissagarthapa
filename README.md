@@ -5,7 +5,7 @@
   <img align='right' src="https://banner2.cleanpng.com/20230821/cyc/transparent-web-design-1711086727519.webp" width="300" height="300" alt="Coding GIF">
 </a>
 
-<p>🌱 I’m currently learning statistics and probability </p>
+<p>🌱 I’m currently learning mysql</p>
 
 📫 How to reach me: kingstonboysagar@gmail.com
 
