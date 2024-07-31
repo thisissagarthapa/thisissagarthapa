@@ -3,7 +3,7 @@
 
 
 
-<p>🌱 I’m currently learning mysql </p>
+<p>🌱 I’m currently learning Numpy and pandas </p>
 
 📫 How to reach me: kingstonboysagar@gmail.com
 
