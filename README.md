@@ -55,7 +55,7 @@
   <img src="https://numpy.org/images/logos/numpy.svg" alt="NumPy" width="40" height="40"/>
 </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="60" height="80"/>
   </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
