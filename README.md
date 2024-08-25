@@ -63,4 +63,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisissagarthapa&" alt="thisissagarthapa" /></p>
 
-https://github-readme-activity-graph.vercel.app/graph?username=thapasagar&theme=rogue&hide_border=true
+## 🌈 Contribution Graph 🌈
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thapasagar&theme=rogue&hide_border=true)
