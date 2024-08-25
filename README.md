@@ -1,7 +1,7 @@
 ## 💻 Tech Stack 💻
 
 <div align="center">
-  ![Tech Stack](https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postman,mysql,pandas&perline=5)
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postman,mysql,pandas&perline=5" alt="Tech Stack"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
