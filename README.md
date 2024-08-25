@@ -32,8 +32,8 @@
   <br>
   <img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
   <img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150A50?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
