@@ -27,7 +27,7 @@
 </p>
 
 ## 💻 Tech Stack 💻
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postman,mysql,pandas" alt="Tech Stack"/>
   <br>
   <img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
