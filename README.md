@@ -1,8 +1,4 @@
-## 💻 Tech Stack 💻
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postman,mysql,pandas&perline=5" alt="Tech Stack"/>
-</div>
 
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
@@ -29,6 +25,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+## 💻 Tech Stack 💻
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,postman,mysql,pandas,restapi&perline=5" alt="Tech Stack"/>
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
