@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
 <h3 align="center">A passionate python developer from Nepal</h3>
 
-<p>🌱 I’m currently learning Numpy and pandas </p>
+<p>🌱 I’m currently learning Java </p>
 
 📫 How to reach me: kingstonboysagar@gmail.com
 
