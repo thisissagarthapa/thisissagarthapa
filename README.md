@@ -45,6 +45,5 @@
 
 ## GitHub Contribution Snake
 
-![GitHub Contribution Snake](dist/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/thisissagarthapa/thisissagarthapa/blob/output/github-contribution-grid-snake.gif)
 
