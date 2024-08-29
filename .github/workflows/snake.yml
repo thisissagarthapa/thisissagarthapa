@@ -10,24 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Ensure full history is fetched to push changes
 
-      - name: Setup Python
+      # Install Python and necessary packages
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Specify Python version
+          python-version: '3.12' # Use the desired Python version
 
       - name: Install Dependencies
         run: |
-          pip install platane-snk  # Install the necessary package
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/platane/snk.git # Install from GitHub if the package is not on PyPI
 
+      # Generate the Snake Animation
       - name: Generate Snake Animation
         run: |
-          python generate_snake.py  # Run your script
+          python -c "from platane.snk import generate_snake; generate_snake(github_user_name='thisissagarthapa', output_file='dist/github-contribution-grid-snake.svg')"
 
+      # Commit and push the generated SVG file
       - name: Commit SVG file
         run: |
           git config user.name "github-actions"
@@ -36,4 +39,4 @@ jobs:
           git commit -m "Update snake animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Required to push changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required to push changes
