@@ -14,12 +14,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Install Python and necessary packages
+      # Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.12' # Use the desired Python version
 
+      # Install Dependencies
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
@@ -28,7 +29,7 @@ jobs:
       # Generate the Snake Animation
       - name: Generate Snake Animation
         run: |
-          python -c "from platane.snk import generate_snake; generate_snake(github_user_name='thisissagarthapa', output_path='dist/github-contribution-grid-snake.svg')"
+          python generate_snake.py
 
       # Commit and push the generated SVG file
       - name: Commit SVG file
