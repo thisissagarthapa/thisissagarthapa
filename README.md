@@ -41,5 +41,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
 
-
+![snake gif](https://github.com/thisissagarthapa/thisissagarthapa/blob/output/github-contribution-grid-snake.gif)
 
