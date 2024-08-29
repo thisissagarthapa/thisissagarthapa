@@ -9,11 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2 # Checkout the repository
-      - uses: Platane/snk@v2 # Generate the snake SVG
+      - uses: actions/checkout@v3 # Updated to use the latest version
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
           github_user_name: thisissagarthapa
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Remove or replace svg_out_path if not supported
+          output: dist/github-contribution-grid-snake.svg # Replace with correct input key if necessary
       - name: Commit SVG file
         run: |
           git config user.name "github-actions"
