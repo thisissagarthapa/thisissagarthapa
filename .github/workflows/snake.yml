@@ -20,16 +20,18 @@ jobs:
         with:
           python-version: '3.12' # Use the desired Python version
 
-      # Install Dependencies
-      - name: Install Dependencies
+      # Clone the platane/snk repository
+      - name: Clone platane/snk repository
         run: |
+          git clone https://github.com/platane/snk.git
+          cd snk
           python -m pip install --upgrade pip
-          pip install git+https://github.com/platane/snk.git # Install from GitHub if the package is not on PyPI
 
       # Generate the Snake Animation
       - name: Generate Snake Animation
         run: |
-          python generate_snake.py
+          cd snk
+          python -c "from platane.snk import generate_snake; generate_snake(github_user_name='thisissagarthapa', output_path='../dist/github-contribution-grid-snake.svg')"
 
       # Commit and push the generated SVG file
       - name: Commit SVG file
