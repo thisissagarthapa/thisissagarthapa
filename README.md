@@ -45,5 +45,4 @@
 
 ## GitHub Contribution Snake
 
-![snake gif](https://github.com/thisissagarthapa/thisissagarthapa/blob/output/github-contribution-grid-snake.gif)
 
