@@ -43,4 +43,5 @@
 
 
 ## 🐍 Contributions 🐍
-![Snake animation](https://github.com/thisissagarthapa/thisissagarthapa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/thisissagarthapa/thisissagarthapa/main/dist/github-contribution-grid-snake.svg)
+
