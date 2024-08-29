@@ -28,7 +28,7 @@ jobs:
       # Generate the Snake Animation
       - name: Generate Snake Animation
         run: |
-          python -c "from platane.snk import generate_snake; generate_snake(github_user_name='thisissagarthapa', output_file='dist/github-contribution-grid-snake.svg')"
+          python -c "from platane.snk import generate_snake; generate_snake(github_user_name='thisissagarthapa', output_path='dist/github-contribution-grid-snake.svg')"
 
       # Commit and push the generated SVG file
       - name: Commit SVG file
