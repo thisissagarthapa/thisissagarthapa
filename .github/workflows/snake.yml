@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3 # Updated to use the latest version to avoid deprecation warnings
+      - uses: actions/checkout@v3
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
@@ -22,4 +22,4 @@ jobs:
           git commit -m "Update snake animation"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required to push changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
