@@ -26,7 +26,7 @@
   </a>
 </p>
 
-                                                         ## 💻 Tech Stack 💻
+                                                        ## 💻 Tech Stack 💻
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,pandas" alt="Tech Stack"/>
   <br>
