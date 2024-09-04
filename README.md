@@ -18,15 +18,22 @@
 </ul>
 🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100078644620461" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sagar-thapa-a25657305" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+<br>
+
+## Contact:
+
+<a href="https://www.facebook.com/profile.php?id=100078644620461" target="_blank" rel="noreferrer">
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="40" alt="Facebook"/>
+</a>
+<a href="mailto:kingstonboysagar@gmail.com">
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/sagar-thapa-a25657305" target="_blank" rel="noreferrer">
+  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="40" alt="LinkedIn"/>
+</a>
+
+<br>
+
 
 ## 💻 Tech Stack 💻
 <div align="left">
