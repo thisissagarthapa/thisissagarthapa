@@ -9,6 +9,10 @@
   <img src="https://github.com/user-attachments/assets/08c88275-928d-4157-82e2-cf9b720612d3" alt="Profile Picture" style="width: 500px; height: 600px; border-radius: 50%;" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a95b0bbb-fd55-4606-b26e-68ce00a9b942" alt="Profile Picture" style="width: 500px; height: 600px; border-radius: 50%;" />
+</div>
+
 <h3 align="left">Hosted Projects:</h3>
 <ul>
   <li><a href="https://task1management.pythonanywhere.com" target="_blank" rel="noreferrer">Task Management System</a></li>
