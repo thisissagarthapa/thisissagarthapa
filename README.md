@@ -1,13 +1,19 @@
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=FF0000&left=true&width=600&height=60&lines=Hi+👋,+I'm+Sagar+Thapa;A+passionate+python+developer+from+Nepal!" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center">Hi 👋, I'm Sagar Thapa</h1>
-<h3 align="center">A passionate python developer from Nepal</h3>
 
-<p>🌱 I’m currently learning Java </p>
 
-📫 How to reach me: kingstonboysagar@gmail.com
+<!-- Centered Profile Picture -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/08c88275-928d-4157-82e2-cf9b720612d3" alt="Profile Picture" style="width: 500px; height: 600px; border-radius: 50%;" />
+</div>
 
-🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
+
+
 
 <h3 align="left">Hosted Projects:</h3>
 <ul>
@@ -15,6 +21,7 @@
   <li><a href="http://sagarthapa.pythonanywhere.com" target="_blank" rel="noreferrer">Weather Application</a></li>
   <li><a href="http://zuko555.pythonanywhere.com" target="_blank" rel="noreferrer">Restaurant App</a></li>
 </ul>
+🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +33,7 @@
   </a>
 </p>
 
-
-  ## 💻 Tech Stack 💻
-            
+## 💻 Tech Stack 💻
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,pandas" alt="Tech Stack"/>
   <br>
@@ -36,8 +41,6 @@
   <img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-%23150A50?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 </div>
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisissagarthapa&show_icons=true&locale=en&layout=compact" alt="thisissagarthapa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&locale=en" alt="thisissagarthapa" /></p>
@@ -47,7 +50,6 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisissagarthapa/thisissagarthapa/output/github-contribution-grid-snake-dark.svg">
-<!--     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thisissagarthapa/thisissagarthapa/output/github-contribution-grid-snake.svg"> -->
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thisissagarthapa/thisissagarthapa/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
