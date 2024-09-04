@@ -9,8 +9,7 @@
   <img src="https://github.com/user-attachments/assets/08c88275-928d-4157-82e2-cf9b720612d3" alt="Profile Picture" style="width: 500px; height: 600px; border-radius: 50%;" />
 </div>
 
-
-<h3 align="left">Hosted Projects:</h3>
+## **Hosted Projects:**
 <ul>
   <li><a href="https://task1management.pythonanywhere.com" target="_blank" rel="noreferrer">Task Management System</a></li>
   <li><a href="http://sagarthapa.pythonanywhere.com" target="_blank" rel="noreferrer">Weather Application</a></li>
@@ -20,7 +19,7 @@
 
 <br>
 
-## Contact:
+## **Contact:**
 
 <a href="https://www.facebook.com/profile.php?id=100078644620461" target="_blank" rel="noreferrer">
   <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="40" alt="Facebook"/>
@@ -34,8 +33,7 @@
 
 <br>
 
-
-## 💻 Tech Stack 💻
+## **💻 Tech Stack 💻**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,pandas" alt="Tech Stack"/>
   <br>
@@ -46,7 +44,7 @@
 
 <br>
 
-## Stats
+## **Stats**
 
 <p align="left">
   <a href="https://github.com/thisissagarthapa">
@@ -60,7 +58,7 @@
   </a>
 </p>
 
-## Snake Contribution graph
+## **Snake Contribution graph**
 <div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thisissagarthapa/thisissagarthapa/output/github-contribution-grid-snake-dark.svg">
