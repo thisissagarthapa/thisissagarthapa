@@ -1,13 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=+JetBrains+Mono+&pause=1000&color=FF0000&left=true&width=600&height=60&lines=Hi+👋,+I'm+Sagar+Thapa;A+passionate+python+developer+from+Nepal!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1&color=FF0000&center=true&width=1000&height=100&lines=Hi+👋,+I'm+Sagar+Thapa;A+passionate+Python+developer+from+Nepal!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Centered Profile Picture -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/08c88275-928d-4157-82e2-cf9b720612d3" alt="Profile Picture" style="width: 500px; height: 600px; border-radius: 50%;" />
-</div>
+
+
 
 ## **Hosted Projects:**
 <ul>
@@ -15,6 +13,7 @@
   <li><a href="http://sagarthapa.pythonanywhere.com" target="_blank" rel="noreferrer">Weather Application</a></li>
   <li><a href="http://zuko555.pythonanywhere.com" target="_blank" rel="noreferrer">Restaurant App</a></li>
 </ul>
+
 🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
 
 <br>
