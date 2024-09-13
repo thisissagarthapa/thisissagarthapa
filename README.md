@@ -4,6 +4,18 @@
   </a>
 </p>
 
+<!-- Goals Section -->
+## **Goals**
+<div  style="margin: 20px 0;">
+  <hr style="border: 0; height: 4px; background: #0000FF; width: 60%; margin-bottom: 10px;">
+  <p style="font-size: 2em; color: #000000; font-weight: bold; text-align: left;">
+    I am very passionate about backend programming, especially with Python. My primary goal is to master Django for backend development. After completing my journey with Django, I plan to delve into machine learning to leverage my backend skills in developing intelligent systems and predictive models.
+  </p>
+  <hr style="border: 0; height: 4px; background: #0000FF; width: 60%; margin-top: 10px;">
+</div>
+
+
+
 ## **Current Learning**
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-%232c3e50?style=flat&logo=docker&logoColor=white" alt="Docker" width="100" height="30"/>
