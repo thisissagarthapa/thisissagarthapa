@@ -53,7 +53,7 @@
 
 ## **💻 Tech Stack 💻**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,docker,linux,pandas" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,docker,redis,linux,pandas" alt="Tech Stack"/>
   <br>
   <img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
   <img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
