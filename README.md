@@ -73,9 +73,7 @@
   <a href="https://github.com/thisissagarthapa">
     <img src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
   </a>
-  <a href="https://git.io/streak-stats">
-    <img alt="thisissagarthapa's GitHub Streak" src="https://streak-stats.demolab.com?user=thisissagarthapa&theme=neon-dark" width="450"/>
-  </a>
+
 </p>
 
 ## **Snake Contribution graph**
