@@ -18,10 +18,9 @@
 
 ## **Current Learning**
 <div align="left">
-  <img src="https://img.shields.io/badge/Docker-%232c3e50?style=flat&logo=docker&logoColor=white" alt="Docker" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Redis-%23d92d2a?style=flat&logo=redis&logoColor=white" alt="Redis" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/Celery-%23ff6f00?style=flat&logo=celery&logoColor=white" alt="Celery" width="100" height="30"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-%232c3e50?style=flat&logo=ai&logoColor=white" alt="Machine Learning" width="150" height="30"/>
 </div>
+
 
 <br>
 
