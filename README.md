@@ -53,13 +53,17 @@
 
 ## **💻 Tech Stack 💻**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,docker,redis,linux,pandas" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,docker,redis,linux" alt="Tech Stack"/>
   <br>
   <img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-%23150A50?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23176BA0?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-%2366C2A5?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
 </div>
+
 
 
 <br>
