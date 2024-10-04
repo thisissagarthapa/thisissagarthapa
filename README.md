@@ -29,7 +29,6 @@
 <ul>
   <li><a href="https://task1management.pythonanywhere.com" target="_blank" rel="noreferrer">Task Management System</a></li>
   <li><a href="http://sagarthapa.pythonanywhere.com" target="_blank" rel="noreferrer">Weather Application</a></li>
-  <li><a href="http://zuko555.pythonanywhere.com" target="_blank" rel="noreferrer">Restaurant App</a></li>
 </ul>
 
 🌐 My portfolio: <a href="http://jaimethegoat.pythonanywhere.com">Portfolio</a>
