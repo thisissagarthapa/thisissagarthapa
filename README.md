@@ -47,21 +47,41 @@
 <a href="https://www.linkedin.com/in/sagar-thapa-a25657305" target="_blank" rel="noreferrer">
   <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="40" alt="LinkedIn"/>
 </a>
-
+<br>
 <br>
 
-## **💻 Tech Stack 💻**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,python,django,postman,mysql,docker,redis,linux" alt="Tech Stack"/>
-  <br>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-%23F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-  <img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150A50?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23176BA0?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-%2366C2A5?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-</div>
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width="32px"></a></h1>
+
+### Languages
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+<a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" /></a>
+<br/><br/>
+
+### Frameworks
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<br/><br/>
+
+### Tools
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" /></a>
+<a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redis" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" /></a>
+<br/><br/>
+
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>  
+<img src="https://img.shields.io/badge/Django_REST_Framework-%232c2c2c?style=flat&logo=django&logoColor=white" alt="Django REST Framework"/>
+<img src="https://img.shields.io/badge/NumPy-%234F5D95?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-%23150A50?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23176BA0?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-%2366C2A5?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+
 
 
 
