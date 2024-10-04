@@ -25,7 +25,7 @@
 <br>
 
 
-## **Hosted Projects:**
+## **Projects:**
 <ul>
   <li><a href="https://task1management.pythonanywhere.com" target="_blank" rel="noreferrer">Task Management System</a></li>
   <li><a href="http://sagarthapa.pythonanywhere.com" target="_blank" rel="noreferrer">Weather Application</a></li>
