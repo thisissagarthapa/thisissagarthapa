@@ -70,7 +70,7 @@
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" /></a>
 <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redis" /></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
 <br/><br/>
 
 
