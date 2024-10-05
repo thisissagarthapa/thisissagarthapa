@@ -66,11 +66,20 @@
 <br/><br/>
 
 ### Tools
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
 <a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" /></a>
 <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redis" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" /></a>
+<br/><br/>
+
+
+
+<br>
+
+### MyDatabase
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
+
 <br/><br/>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>  
@@ -80,6 +89,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23176BA0?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-%2366C2A5?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+
 
 
 
