@@ -97,14 +97,16 @@
 <br>
 
 ## **Stats**
+## **Stats**
 <p align="left">
   <a href="https://github.com/thisissagarthapa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissagarthapa&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="450">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissagarthapa&layout=compact&theme=radical" alt="Top Langs" width="450">
   </a>
   <a href="https://github.com/thisissagarthapa">
     <img src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
   </a>
 </p>
+
 
 ## **Snake Contribution graph**
 <div align="left">
