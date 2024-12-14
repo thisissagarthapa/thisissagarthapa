@@ -6,7 +6,7 @@
 
 <!-- Goals Section -->
 ## **Goals**
-<div  style="margin: 20px 0;">
+<div style="margin: 20px 0;">
   <hr style="border: 0; height: 4px; background: #0000FF; width: 60%; margin-bottom: 10px;">
   <p style="font-size: 2em; color: #000000; font-weight: bold; text-align: left;">
     I am very passionate about backend programming, especially with Python. My primary goal is to master Django for backend development. After completing my journey with Django, I plan to delve into machine learning to leverage my backend skills in developing intelligent systems and predictive models.
@@ -14,16 +14,13 @@
   <hr style="border: 0; height: 4px; background: #0000FF; width: 60%; margin-top: 10px;">
 </div>
 
-
-
 ## **Current Learning**
 <div align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-%232c3e50?style=flat&logo=ai&logoColor=white" alt="Machine Learning" width="150" height="30"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="150" height="30"/>
 </div>
 
-
 <br>
-
 
 ## **Projects:**
 <ul>
@@ -49,7 +46,6 @@
 <br>
 <br>
 
-
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width="32px"></a></h1>
 
 ### Languages
@@ -73,10 +69,6 @@
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
 <br/><br/>
 
-
-
-<br>
-
 ### MyDatabase
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
 
@@ -89,14 +81,10 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23176BA0?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/Seaborn-%2366C2A5?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
-
-
-
-
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
 <br>
 
-## **Stats**
 ## **Stats**
 <p align="left">
   <a href="https://github.com/thisissagarthapa">
@@ -106,7 +94,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=thisissagarthapa&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
   </a>
 </p>
-
 
 ## **Snake Contribution graph**
 <div align="left">
