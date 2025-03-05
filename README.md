@@ -16,8 +16,7 @@
 
 ## **Current Learning**
 <div align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-%232c3e50?style=flat&logo=ai&logoColor=white" alt="Machine Learning" width="150" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" width="150" height="30"/>
+ <h1>Advance Django</h1>
 </div>
 
 <br>
