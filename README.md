@@ -33,9 +33,7 @@
 
 ## **Contact:**
 
-<a href="https://www.facebook.com/profile.php?id=100078644620461" target="_blank" rel="noreferrer">
-  <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="50" height="40" alt="Facebook"/>
-</a>
+
 <a href="mailto:kingstonboysagar@gmail.com">
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="40" alt="Gmail"/>
 </a>
